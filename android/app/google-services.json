@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380975477085",
+    "project_id": "hol-loc-app",
+    "storage_bucket": "hol-loc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380975477085:android:69800e486ae13a0106f8b4",
+        "android_client_info": {
+          "package_name": "com.example.hol_loc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380975477085-39geafovnsa05c0940dv8hvbkvfc0gh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCJLoX6wIB48t43MHsgBiHSB-XcGpk-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380975477085-39geafovnsa05c0940dv8hvbkvfc0gh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
